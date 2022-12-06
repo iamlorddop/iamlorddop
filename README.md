@@ -8,7 +8,6 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-ffffff?style=for-the-badge&logo=scss&logoColor=376FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=FFF500)
 ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=DD1A60)
-![PhotoShop](https://img.shields.io/badge/-PhotoShop-ffffff?style=for-the-badge&logo=PhotoShop&logoColor=202FBB)
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=Instagram&logoColor=FF006B)](https://instagram.com/lorddop)
