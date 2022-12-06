@@ -6,7 +6,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html&logoColor=FF5C00)
 ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css&logoColor=0094FF)
 ![SCSS](https://img.shields.io/badge/-SCSS-ffffff?style=for-the-badge&logo=scss&logoColor=376FFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=FFF500)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=DD1A60)
 
 ### Follow me
