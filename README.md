@@ -14,3 +14,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00A3FF)](https://t.me/havaevau)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=00A3FF)](https://vk.com/havaevau)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=00A3FF)](https://twitter.com/lorddop)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlorddop&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
