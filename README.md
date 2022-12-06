@@ -3,7 +3,7 @@
 ## I'm a front-end developer
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html&logoColor=FF5C00)
+![HTML](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html&logoColor=FF5C00)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css&logoColor=0094FF)
 ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=scss&logoColor=376FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFF500)
