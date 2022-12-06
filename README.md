@@ -9,4 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFF500)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=DD1A60)
 
-Follow me
+### Follow me
+[![Instagram](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=FF006B)](https://instagram.com/lorddop)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00A3FF)](https://t.me/havaevau)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vkontakte&logoColor=00A3FF)](https://vk.com/havaevau)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=00A3FF)](https://twitter.com/lorddop)
