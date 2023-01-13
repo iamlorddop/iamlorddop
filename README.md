@@ -8,6 +8,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-ffffff?style=for-the-badge&logo=scss&logoColor=376FFF)
 ![SASS](https://img.shields.io/badge/-SASS-ffffff?style=for-the-badge&logo=sass&logoColor=376FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=FFF500)
+![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=React&logoColor=376FFF)
 ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=DD1A60)
 
 ### Portofolio
