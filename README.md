@@ -22,10 +22,10 @@
 - [Аренда премиальных автомобилей](https://github.com/iamlorddop/cars-hw)
 
 ### Follow me
-[![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=FF006B)](https://instagram.com/lorddop)
+[![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=FF006B)](https://instagram.com/ykhavaeva)
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=00A3FF)](https://t.me/havaevau)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-ffffff?style=for-the-badge&logo=VK&logoColor=00A3FF)](https://vk.com/havaevau)
-[![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=00A3FF)](https://twitter.com/lorddop)
+[![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=00A3FF)](https://twitter.com/ykhavaeva)
 
 ### Statistics on github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlorddop&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
