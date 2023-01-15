@@ -3,10 +3,10 @@
 ## I'm a front-end developer
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=HTML&logoColor=FF5C00)
-![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css&logoColor=0094FF)
-![SCSS](https://img.shields.io/badge/-SCSS-ffffff?style=for-the-badge&logo=scss&logoColor=376FFF)
-![SASS](https://img.shields.io/badge/-SASS-ffffff?style=for-the-badge&logo=sass&logoColor=376FFF)
+![HTML](https://img.shields.io/badge/-html-ffffff?style=for-the-badge&logo=html&logoColor=FF5C00)
+![CSS](https://img.shields.io/badge/-css-ffffff?style=for-the-badge&logo=css&logoColor=0094FF)
+![SCSS](https://img.shields.io/badge/-scss-ffffff?style=for-the-badge&logo=scss&logoColor=376FFF)
+![SASS](https://img.shields.io/badge/-sass-ffffff?style=for-the-badge&logo=sass&logoColor=376FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=FFF500)
 ![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=React&logoColor=376FFF)
 ![Angular](https://img.shields.io/badge/-Angular-ffffff?style=for-the-badge&logo=Angular&logoColor=376FFF)
