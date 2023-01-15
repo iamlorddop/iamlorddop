@@ -11,9 +11,9 @@
 ![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=React&logoColor=376FFF)
 ![Angular](https://img.shields.io/badge/-Angular-ffffff?style=for-the-badge&logo=Angular&logoColor=376FFF)
 ![PHP](https://img.shields.io/badge/-PHP-ffffff?style=for-the-badge&logo=PHP&logoColor=DD1A60)
-![VS](https://img.shields.io/badge/-VScode-ffffff?style=for-the-badge&logo=VScode&logoColor=376FFF)
+![VS](https://img.shields.io/badge/-VS-ffffff?style=for-the-badge&logo=VS&logoColor=376FFF)
 ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=DD1A60)
-![Github](https://img.shields.io/badge/-Github-ffffff?style=for-the-badge&logo=Github&logoColor=FFFFFF)
+![Github](https://img.shields.io/badge/-github-ffffff?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 ### Portofolio
 - [САИКТ Бесплатный курс по рекламе 01](https://github.com/iamlorddop/saikt_01)
