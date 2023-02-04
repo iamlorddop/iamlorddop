@@ -19,6 +19,7 @@
 - [САИКТ Бесплатный курс по рекламе 01](https://github.com/iamlorddop/saikt_01)
 - [САИКТ Бесплатный курс по рекламе 02](https://github.com/iamlorddop/saikt_03)
 - [САИКТ Платный курс по рекламе](https://github.com/iamlorddop/saikt_02)
+- [Грузоперевозки](https://github.com/iamlorddop/trucking)
 - [Аренда премиальных автомобилей](https://github.com/iamlorddop/cars-hw)
 
 ### Follow me
