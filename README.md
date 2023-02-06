@@ -1,7 +1,7 @@
 [![Header](https://github.com/iamlorddop/iamlorddop/blob/main/assets/01.png)](https://github.com/iamlorddop)
 
 ## I'm a front-end developer
-I am a 17 year old front-end developer from Russia, I have been developing for more than a year, I want to provide
+I am a 17 years old front-end developer from Russia, I have been developing for more than a year, I want to provide
 their services and develop projects with high quality and on time.
 
 ### Languages and Tools
