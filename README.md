@@ -22,7 +22,6 @@ their services and develop projects with high quality and on time.
 - [SAICT Advertising Free Course 01](https://github.com/iamlorddop/saikt_01)
 - [SAICT Advertising Free Course 02](https://github.com/iamlorddop/saikt_03)
 - [SAICT Paid advertising course](https://github.com/iamlorddop/saikt_02)
-- [Premium car rental](https://github.com/iamlorddop/cars-hw)
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=FF006B)](https://instagram.com/ykhavaeva)
