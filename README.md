@@ -7,7 +7,6 @@ their services and develop projects with high quality and on time.
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-html-ffffff?style=for-the-badge&logo=html&logoColor=FF5C00)
 ![CSS](https://img.shields.io/badge/-css-ffffff?style=for-the-badge&logo=css&logoColor=0094FF)
-![SCSS](https://img.shields.io/badge/-scss-ffffff?style=for-the-badge&logo=scss&logoColor=376FFF)
 ![SASS](https://img.shields.io/badge/-sass-ffffff?style=for-the-badge&logo=sass&logoColor=376FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=FFF500)
 ![Angular](https://img.shields.io/badge/-Angular-ffffff?style=for-the-badge&logo=Angular&logoColor=376FFF)
