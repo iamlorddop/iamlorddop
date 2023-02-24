@@ -1,9 +1,7 @@
 [![Header](https://github.com/iamlorddop/iamlorddop/blob/main/assets/01.png)](https://github.com/iamlorddop)
 
 <!--   my-ticker -->   
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yulia+Khavaeva;+Welcome+to+My+Profile!;+I+am+front-end+developer;+I+have+been+developing+for+more+than+a+year;+Always+learning+new+things+)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yulia+Khavaeva;+Welcome+to+My+Profile!;+I+am+front-end+developer;+I+have+been+developing+for+more+than+a+year;+Always+learning+new+things+)](https://git.io/typing-svg)
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-html-ffffff?style=for-the-badge&logo=html&logoColor=FF5C00)
