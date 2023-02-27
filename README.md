@@ -1,5 +1,5 @@
 <div align="center">
-  [![Header](https://github.com/iamlorddop/iamlorddop/blob/main/assets/github.gif)](https://github.com/iamlorddop)
+  <img src="https://github.com/iamlorddop/iamlorddop/blob/main/assets/github.gif" alt="github gif" />
 </div>
 
 <!--   my-ticker -->   
