@@ -18,11 +18,12 @@
 ![VS](https://img.shields.io/badge/-vscode-FFFFFF?style=for-the-badge&logo=visualstudio&logoColor=3CA8F1)
 ![Github](https://img.shields.io/badge/-github-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)
 
-### Portofolio
+### Projects
 - [Delivery line](https://deline24.ru/)
 - [SAICT Advertising Free Course 01](https://github.com/iamlorddop/saikt_01)
 - [SAICT Advertising Free Course 02](https://github.com/iamlorddop/saikt_03)
 - [SAICT Paid advertising course](https://github.com/iamlorddop/saikt_02)
+- [Sorting methods library](https://github.com/iamlorddop/sorting-methods)
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=FF006B)](https://instagram.com/ykhavaeva)
