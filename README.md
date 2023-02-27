@@ -20,9 +20,9 @@
 
 ### Projects
 - [Delivery line](https://deline24.ru/)
-- [SAICT Advertising Free Course 01](saikt-kurs.ru/trening)
-- [SAICT Advertising Free Course 02](saikt-kurs.ru/direct-trening/)
-- [SAICT Paid advertising course](saikt-kurs.ru)
+- [SAICT Advertising Free Course 01](https://saikt-kurs.ru/trening)
+- [SAICT Advertising Free Course 02](https://saikt-kurs.ru/direct-trening/)
+- [SAICT Paid advertising course](https://saikt-kurs.ru)
 - [Sorting methods library](https://github.com/iamlorddop/sorting-methods)
 
 ### Follow me
