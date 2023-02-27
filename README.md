@@ -1,4 +1,6 @@
-[![Header](https://github.com/iamlorddop/iamlorddop/blob/main/assets/github.gif)](https://github.com/iamlorddop)
+<div align="center">
+  [![Header](https://github.com/iamlorddop/iamlorddop/blob/main/assets/github.gif)](https://github.com/iamlorddop)
+</div>
 
 <!--   my-ticker -->   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yulia+Khavaeva;+Welcome+to+My+Profile!;+I+am+front-end+developer;+I+have+been+developing+for+more+than+a+year;+Always+learning+new+things+)](https://git.io/typing-svg)
