@@ -29,6 +29,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=FF006B)](https://instagram.com/ykhavaeva)
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=00A3FF)](https://t.me/havaevau)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-ffffff?style=for-the-badge&logo=VK&logoColor=00A3FF)](https://vk.com/havaevau)
+[![Codepen](https://img.shields.io/badge/-codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=000000)](https://codepen.io/lorddop)
 
 ### GitHub Activity Graph:
 [![iamlorddop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamlorddop&theme=github-compact)](https://github.com/iamlorddop/github-readme-activity-graph)
