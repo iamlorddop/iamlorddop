@@ -24,6 +24,7 @@
 - [SAICT Advertising Free Course 02](https://saikt-kurs.ru/direct-trening/)
 - [SAICT Paid advertising course](https://saikt-kurs.ru)
 - [Sorting methods library](https://github.com/iamlorddop/sorting-methods)
+- [Colors](https://iamlorddop.github.io/colors/)
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=FF006B)](https://instagram.com/ykhavaeva)
