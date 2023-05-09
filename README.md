@@ -26,9 +26,6 @@
 [![Codepen](https://img.shields.io/badge/-codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=000000)](https://codepen.io/lorddop)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=376FFF)](https://www.linkedin.com/in/yulia-khavaeva-591096268/)
 
-### My CV
-[Link to my CV](https://www.figma.com/proto/Z0zalAH2VkjmkywgGqrFzV/CV?page-id=0%3A1&type=design&node-id=1-2&viewport=718%2C234%2C0.5&scaling=min-zoom)
-
 ### GitHub Activity Graph:
 [![iamlorddop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamlorddop&theme=github-compact)](https://github.com/iamlorddop/github-readme-activity-graph)
 
