@@ -26,8 +26,5 @@
 [![Codepen](https://img.shields.io/badge/-codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=000000)](https://codepen.io/lorddop)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=376FFF)](https://www.linkedin.com/in/yulia-khavaeva-591096268/)
 
-### GitHub Activity Graph:
-[![iamlorddop's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamlorddop&theme=github-compact)](https://github.com/iamlorddop/github-readme-activity-graph)
-
 ### Statistics on github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlorddop&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
