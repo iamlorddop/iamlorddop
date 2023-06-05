@@ -19,7 +19,6 @@
 - [SAICT Advertising Free Course 01](https://saikt-kurs.ru/trening)
 - [SAICT Advertising Free Course 02](https://saikt-kurs.ru/direct-trening/)
 - [SAICT Paid advertising course](https://saikt-kurs.ru)
-- [Colors](https://iamlorddop.github.io/colors/)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=00A3FF)](https://t.me/havaevau)
