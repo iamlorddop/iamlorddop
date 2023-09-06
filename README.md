@@ -19,7 +19,6 @@
 - [Delivery line](https://deline24.ru/)
 - [SAICT Advertising Free Course 01](https://saikt-kurs.ru/trening)
 - [SAICT Advertising Free Course 02](https://saikt-kurs.ru/direct-trening/)
-- [SAICT Paid advertising course](https://saikt-kurs.ru)
 - [recruter58](https://iamlorddop.github.io/recruter58/)
 
 ### Follow me
