@@ -16,6 +16,7 @@
 - [Delivery line](https://deline24.ru/)
 - [SAICT Advertising Free Course 01](https://saikt-kurs.ru/trening)
 - [SAICT Advertising Free Course 02](https://saikt-kurs.ru/direct-trening/)
+- [Cipher | Basics of cryptography](https://iamlorddop.github.io/cipher/)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=00A3FF)](https://t.me/havaevau)
