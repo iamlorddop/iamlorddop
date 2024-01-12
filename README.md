@@ -16,7 +16,7 @@
 - [Delivery line](https://deline24.ru/)
 - [Cipher | Basics of cryptography - v1.0.0](https://iamlorddop.github.io/cipher/)
 - [Center Educational Initiatives - not finished](https://edu-centers.ru/)
-- [Promstroitel - not finished]([https://edu-centers.ru/](https://promstroitel.ru/))
+- [Promstroitel - not finished](https://promstroitel.ru/)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=00A3FF)](https://t.me/havaevau)
