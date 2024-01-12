@@ -14,11 +14,10 @@
 
 ### Projects
 - [Delivery line](https://deline24.ru/)
-- [SAICT Advertising Free Course 01](https://saikt-kurs.ru/trening)
-- [SAICT Advertising Free Course 02](https://saikt-kurs.ru/direct-trening/)
-- [Cipher | Basics of cryptography](https://iamlorddop.github.io/cipher/)
+- [Cipher | Basics of cryptography - v1.0.0](https://iamlorddop.github.io/cipher/)
+- [Center Educational Initiatives - not finished](https://edu-centers.ru/)
+- [Promstroitel - not finished]([https://edu-centers.ru/](https://promstroitel.ru/))
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=00A3FF)](https://t.me/havaevau)
 [![Codepen](https://img.shields.io/badge/-codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=000000)](https://codepen.io/lorddop)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=376FFF)](https://www.linkedin.com/in/yulia-khavaeva-591096268/)
